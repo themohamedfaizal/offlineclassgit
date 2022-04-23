@@ -20,4 +20,12 @@ git push origin master
 
 git pull origin master
 
+-------------------------
+
+
+git tag v1
+
+git tag -d v1
+
+git push --tag origin
 
